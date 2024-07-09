@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ruampimentel
 - 👀 I’m interested in Data Science, Psychology, Psychological Assessment, Neuroscience, Psychometrics, and the Rorschach Test. 
-- 🌱 I’m currently learning Data Science - Machine Learning.
-- 💞️ I’m looking to collaborate ...
 - 📫 How to reach me Twitter: @PimentelRuam.
 
 <!---
